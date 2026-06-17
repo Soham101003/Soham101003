@@ -100,7 +100,7 @@ I enjoy solving practical problems through technology and am currently seeking o
 
 * 🔬 Worked alongside research and development teams
 * 🌍 Engaged with institutional and international stakeholders
-* 📄 Contributed to research resulting in IEEE publications
+* 📄 First authored an IEEE publication
 * 💡 Passionate about translating research into practical solutions
 
 ---
