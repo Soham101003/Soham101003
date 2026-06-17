@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-# 👋 Hi, I'm Soham Dutta
+# 👋 Hi, I'm Soham Dutta, Final Year student at Heritage Institute of technology 
 
 ### 🤖 AI Engineer • Machine Learning Engineer • Software Developer • Research Enthusiast
 
