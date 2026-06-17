@@ -86,6 +86,28 @@ I enjoy solving practical problems through technology and am currently seeking o
 * End-to-End ML Pipelines
 
 ---
+## 💼 Work Experience
+
+### 🔹R&D Intern | Aimil Ltd.
+
+
+
+* Worked on machine learning projects involving data preprocessing, model development, and evaluation.
+* Collaborated with research and development teams to explore practical AI applications and translate technical ideas into deployable solutions.
+* Gained hands-on experience across the end-to-end ML lifecycle, from experimentation and analysis to implementation.
+
+### 🔹 Research Collaborations & Industry Projects
+
+* Contributed to interdisciplinary projects involving institutional and international stakeholders, strengthening communication and cross-functional collaboration skills.
+* Participated in applied research initiatives that resulted in IEEE publications and conference contributions.
+* Focused on bridging the gap between academic research and real-world implementation through practical AI solutions.
+
+### 🔹 Independent AI Engineer
+
+* Built end-to-end machine learning and computer vision solutions using Python, PyTorch, TensorFlow, and Scikit-learn.
+* Explored and implemented modern AI paradigms, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformers, and Agentic AI systems.
+* Developed projects spanning computer vision, predictive analytics, and intelligent automation, taking ideas from concept to deployment.
+
 
 ## 🌱 Currently Exploring
 
