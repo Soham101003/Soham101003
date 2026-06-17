@@ -117,9 +117,9 @@ I strive to build systems that are not only technically sound but also meaningfu
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 📧 Email: YOUR_EMAIL
-* 🌐 Portfolio: YOUR_PORTFOLIO
+* 💼 LinkedIn: www.linkedin.com/in/soham-dutta-ba839a248
+* 📧 Email: sohamdutta10103.ab@gmail.com
+
 
 ---
 
