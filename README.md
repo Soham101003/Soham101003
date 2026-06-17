@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div align="center">
 
-# 👋 Hi, I'm Soham Dutta, Final Year student at Heritage Institute of technology 
+# 👋 Hi, I'm Soham Dutta,
+### Final year student at Heritage Institute of Technology, Kolkata 
 
 ### 🤖 AI Engineer • Machine Learning Engineer • Software Developer • Research Enthusiast
 
